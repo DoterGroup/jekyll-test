@@ -1,7 +1,7 @@
 name: Jekyll Test
 description: Just another Jekyll test.
 
-paginate: 10
+paginate: 2
 
 markdown: redcarpet
 permalink: pretty
