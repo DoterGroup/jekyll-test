@@ -1,4 +1,8 @@
 name: Jekyll Test
+description: Just another Jekyll test.
+
+paginate: 10
+
 markdown: redcarpet
-pygments: true
+permalink: pretty
 baseurl: /jekyll-test
